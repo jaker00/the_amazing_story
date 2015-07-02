@@ -21,3 +21,10 @@ div {
 .orange {
     color: orange;
 }
+
+
+
+.stories-container {
+    width: 80%;
+    margin: 0 auto;
+}
